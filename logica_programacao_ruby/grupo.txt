@@ -1,4 +1,9 @@
 alan,fabio,pablo e matias
+
+Tarefa - Fazer um código com IF (&& || !) e FOR
+
 1 pessoa para apresentar
 1 ou 2 programa
 A pessoa que menos contrinbui com o código -> apresentar
+
+Explicar 2FN Banco de Dados
